@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dangel34 (Derek)!
 - 😄 Pronouns: He/Him
-- 👀 I’m interested in quantum cryptography, post-quantum cryptography, OSINT, and online privacy.
+- 👀 I’m interested in web scraping, quantum cryptography, post-quantum cryptography, OSINT, and online privacy.
 - 🌱 I’m currently studying Cybersecurity at Mercyhurst University in conjunction with learning and mastering Arabic.
 - 📫 How to reach me: Email: dangel33@lakers.mercyhurst.edu LinkedIn: https://www.linkedin.com/in/da1972/ Signal: dma38091.05 Matrix: @dangel33:matrix.org 
 
